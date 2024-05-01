@@ -1,8 +1,0 @@
-![image](https://github.com/MrUmmataliyev/Eshop/assets/145908814/4f052af0-179c-42ec-bc1c-2e5fdb8b6846)
-![image](https://github.com/MrUmmataliyev/Eshop/assets/145908814/fb687b14-de77-4d75-abf4-4444395efd2a)
-![image](https://github.com/MrUmmataliyev/Eshop/assets/145908814/f85c855c-aece-4aeb-9cef-4d49f2ff5e45)
-![image](https://github.com/MrUmmataliyev/Eshop/assets/145908814/0d925c03-29c5-4882-aeb5-d93017435a8d)
-![image](https://github.com/MrUmmataliyev/Eshop/assets/145908814/927159b7-2229-43a8-a363-63f1c8536c75)
-![image](https://github.com/MrUmmataliyev/Eshop/assets/145908814/2de2d872-faba-4c85-be7f-8ba4ff274090)
-![image](https://github.com/MrUmmataliyev/Eshop/assets/145908814/f5a734a0-3958-41c2-a852-10ab227c97b4)
-![image](https://github.com/MrUmmataliyev/Eshop/assets/145908814/f701feb1-8dc9-4110-b530-81f3f5f08ea6)
