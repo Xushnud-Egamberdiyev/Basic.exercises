@@ -1,4 +1,4 @@
-namespace Discount.API
+namespace EshopGetaway.API
 {
     public class WeatherForecast
     {

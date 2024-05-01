@@ -12,7 +12,6 @@ namespace Catalog.API
 
             // Add services to the container.
 
-
             builder.Services.AddCatalogApplicationDependencyInjection();
             builder.Services.AddCatalogInfrastructureDependencyInjetion(builder.Configuration);
             builder.Services.AddControllers();

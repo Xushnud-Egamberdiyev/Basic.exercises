@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Discount.API.Controllers
+namespace EshopGetaway.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

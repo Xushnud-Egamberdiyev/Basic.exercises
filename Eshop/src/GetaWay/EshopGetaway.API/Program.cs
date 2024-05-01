@@ -1,6 +1,8 @@
-using Discount.Application;
-using Discount.Infrastructure;
-namespace Discount.API
+
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
+
+namespace EshopGetaway.API
 {
     public class Program
     {
@@ -9,13 +11,12 @@ namespace Discount.API
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
+            builder.Configuration.AddJsonFile("ocelot.json");
+            builder.Services.AddOcelot();
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.Services.AddDiscountApplicationDependencyInjection();
-            builder.Services.AddDiscountInfrastructureDepencyInjection(builder.Configuration);
 
             var app = builder.Build();
 
@@ -25,7 +26,7 @@ namespace Discount.API
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            app.UseOcelot();
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
