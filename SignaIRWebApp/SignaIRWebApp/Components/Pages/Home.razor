@@ -21,18 +21,6 @@
     </label>
 </div>
 
-
-
-<div class="form-group">
-    <label>
-        Message:
-        <input @bind="connectionId" size="50" />
-    </label>
-</div>
-<button @onclick="SendToAll" disabled="@(!IsConnected)">SendToAll</button>>>
-<button @onclick="SendToCaller" disabled="@(!IsConnected)">SendToCaller</button>>>
-<button @onclick="SendToUser" disabled="@(!IsConnected)">SendToUser</button>>>
-
 <hr>
 
 <ul id="messagesList">
@@ -55,7 +43,6 @@
             .WithUrl(Navigation.ToAbsoluteUri("/chathub"))
             .Build();
 
-        hubConnection.On<string, string>(nameof(ReceiveMessage), ReceiveMessage);
 
         await hubConnection.StartAsync();
 
