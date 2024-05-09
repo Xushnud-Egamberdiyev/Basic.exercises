@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDBC85C-3101-44F0-95EE-3CD37BA853C0}|DockerMicroservice\\DockerMicroservice.csproj|c:\\users\\hp\\documents\\basic.exercises\\dockermicroservice\\dockermicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1CDBC85C-3101-44F0-95EE-3CD37BA853C0}|DockerMicroservice\\DockerMicroservice.csproj|solutionrelative:dockermicroservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDBC85C-3101-44F0-95EE-3CD37BA853C0}|DockerMicroservice\\DockerMicroservice.csproj|c:\\users\\hp\\documents\\basic.exercises\\dockermicroservice\\dockermicroservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CDBC85C-3101-44F0-95EE-3CD37BA853C0}|DockerMicroservice\\DockerMicroservice.csproj|solutionrelative:dockermicroservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84AD2F9-9E99-4671-AC73-D2EB4B256E46}|docker-compose.dcproj|c:\\users\\hp\\documents\\basic.exercises\\dockermicroservice\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E84AD2F9-9E99-4671-AC73-D2EB4B256E46}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84AD2F9-9E99-4671-AC73-D2EB4B256E46}|docker-compose.dcproj|c:\\users\\hp\\documents\\basic.exercises\\dockermicroservice\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E84AD2F9-9E99-4671-AC73-D2EB4B256E46}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84AD2F9-9E99-4671-AC73-D2EB4B256E46}|docker-compose.dcproj|c:\\users\\hp\\documents\\basic.exercises\\dockermicroservice\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E84AD2F9-9E99-4671-AC73-D2EB4B256E46}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CDBC85C-3101-44F0-95EE-3CD37BA853C0}|DockerMicroservice\\DockerMicroservice.csproj|c:\\users\\hp\\documents\\basic.exercises\\dockermicroservice\\dockermicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CDBC85C-3101-44F0-95EE-3CD37BA853C0}|DockerMicroservice\\DockerMicroservice.csproj|solutionrelative:dockermicroservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\DockerMicroservice\\appsettings.json",
+              "RelativeDocumentMoniker": "DockerMicroservice\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\DockerMicroservice\\appsettings.json",
+              "RelativeToolTip": "DockerMicroservice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T18:09:35.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-08T05:43:03.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-08T05:42:59.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\DockerMicroservice\\Dockerfile",
+              "RelativeDocumentMoniker": "DockerMicroservice\\Dockerfile",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\DockerMicroservice\\Dockerfile",
+              "RelativeToolTip": "DockerMicroservice\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-08T05:42:42.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-05-08T05:43:15.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\DockerMicroservice\\Program.cs",
+              "RelativeDocumentMoniker": "DockerMicroservice\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\DockerMicroservice\\DockerMicroservice\\Program.cs",
+              "RelativeToolTip": "DockerMicroservice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:38:10.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
