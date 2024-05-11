@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A5DE2-E011-4812-84A7-71192B3C6AF1}|PostIdentity\\PostIdentity.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\postidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E6A5DE2-E011-4812-84A7-71192B3C6AF1}|PostIdentity\\PostIdentity.csproj|solutionrelative:postidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\handler\\queryhandler\\getallpostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\handler\\queryhandler\\getallpostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\handler\\commandhandler\\deletepostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\handler\\commandhandler\\deletepostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A5DE2-E011-4812-84A7-71192B3C6AF1}|PostIdentity\\PostIdentity.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\postidentity\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A5DE2-E011-4812-84A7-71192B3C6AF1}|PostIdentity\\PostIdentity.csproj|solutionrelative:postidentity\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\handler\\commandhandler\\updatepostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\handler\\commandhandler\\updatepostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\commands\\updatepostmodelcommamd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\commands\\updatepostmodelcommamd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\commands\\deletepostmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\commands\\deletepostmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\commands\\createpostmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\commands\\createpostmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC05E78E-0AA2-439B-A66F-BC0558D04795}|Post.Domain\\Post.Domain.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.domain\\entity\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC05E78E-0AA2-439B-A66F-BC0558D04795}|Post.Domain\\Post.Domain.csproj|solutionrelative:post.domain\\entity\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\query\\getallpostquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\query\\getallpostquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\abstraction\\ipostmodeldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\abstraction\\ipostmodeldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\handler\\commandhandler\\createpostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\handler\\commandhandler\\createpostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Migrations\\20240511133354_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Post.Infrastructor\\Migrations\\20240511133354_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC05E78E-0AA2-439B-A66F-BC0558D04795}|Post.Domain\\Post.Domain.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.domain\\entity\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC05E78E-0AA2-439B-A66F-BC0558D04795}|Post.Domain\\Post.Domain.csproj|solutionrelative:post.domain\\entity\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\postapplicationdependensinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\postapplicationdependensinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6A5DE2-E011-4812-84A7-71192B3C6AF1}|PostIdentity\\PostIdentity.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\postidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6A5DE2-E011-4812-84A7-71192B3C6AF1}|PostIdentity\\PostIdentity.csproj|solutionrelative:postidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC49584F-0FED-42AE-B5DC-C298056782AA}|Post.Infrastructor\\Post.Infrastructor.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.infrastructor\\addinfrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC49584F-0FED-42AE-B5DC-C298056782AA}|Post.Infrastructor\\Post.Infrastructor.csproj|solutionrelative:post.infrastructor\\addinfrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Migrations\\20240511131951_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Post.Infrastructor\\Migrations\\20240511131951_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC49584F-0FED-42AE-B5DC-C298056782AA}|Post.Infrastructor\\Post.Infrastructor.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.infrastructor\\persistence\\abbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC49584F-0FED-42AE-B5DC-C298056782AA}|Post.Infrastructor\\Post.Infrastructor.csproj|solutionrelative:post.infrastructor\\persistence\\abbdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeletePostModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Commands\\DeletePostModelCommand.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Commands\\DeletePostModelCommand.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Commands\\DeletePostModelCommand.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Commands\\DeletePostModelCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:11:12.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeletePostModelCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\CommandHandler\\DeletePostModelCommandHandler.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Handler\\CommandHandler\\DeletePostModelCommandHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\CommandHandler\\DeletePostModelCommandHandler.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Handler\\CommandHandler\\DeletePostModelCommandHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:12:32.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\PostIdentity\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "PostIdentity\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\PostIdentity\\Controllers\\PostController.cs",
+              "RelativeToolTip": "PostIdentity\\Controllers\\PostController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:21:08.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllPostModelCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\QueryHandler\\GetAllPostModelCommandHandler.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Handler\\QueryHandler\\GetAllPostModelCommandHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\QueryHandler\\GetAllPostModelCommandHandler.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Handler\\QueryHandler\\GetAllPostModelCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:57:37.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\PostIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "PostIdentity\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\PostIdentity\\appsettings.json",
+              "RelativeToolTip": "PostIdentity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-11T13:12:07.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePostModelCommamd.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Commands\\UpdatePostModelCommamd.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Commands\\UpdatePostModelCommamd.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Commands\\UpdatePostModelCommamd.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Commands\\UpdatePostModelCommamd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:33:09.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdatePostModelCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\CommandHandler\\UpdatePostModelCommandHandler.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Handler\\CommandHandler\\UpdatePostModelCommandHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\CommandHandler\\UpdatePostModelCommandHandler.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Handler\\CommandHandler\\UpdatePostModelCommandHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:34:43.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePostModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Commands\\CreatePostModelCommand.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Commands\\CreatePostModelCommand.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Commands\\CreatePostModelCommand.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Commands\\CreatePostModelCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:23:08.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Domain\\Entity\\PostModel.cs",
+              "RelativeDocumentMoniker": "Post.Domain\\Entity\\PostModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Domain\\Entity\\PostModel.cs",
+              "RelativeToolTip": "Post.Domain\\Entity\\PostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:33:50.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllPostQuery.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Query\\GetAllPostQuery.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Query\\GetAllPostQuery.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Query\\GetAllPostQuery.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Query\\GetAllPostQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:56:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPostModelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\Abstraction\\IPostModelDbContext.cs",
+              "RelativeDocumentMoniker": "Post.Application\\Abstraction\\IPostModelDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\Abstraction\\IPostModelDbContext.cs",
+              "RelativeToolTip": "Post.Application\\Abstraction\\IPostModelDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:08:38.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePostModelCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\CommandHandler\\CreatePostModelCommandHandler.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Handler\\CommandHandler\\CreatePostModelCommandHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\CommandHandler\\CreatePostModelCommandHandler.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Handler\\CommandHandler\\CreatePostModelCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:36:13.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\PostIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "PostIdentity\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\PostIdentity\\Program.cs",
+              "RelativeToolTip": "PostIdentity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:04:28.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddInfrastructure.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\AddInfrastructure.cs",
+              "RelativeDocumentMoniker": "Post.Infrastructor\\AddInfrastructure.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\AddInfrastructure.cs",
+              "RelativeToolTip": "Post.Infrastructor\\AddInfrastructure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:09:21.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostApplicationDependensInjection.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\PostApplicationDependensInjection.cs",
+              "RelativeDocumentMoniker": "Post.Application\\PostApplicationDependensInjection.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\PostApplicationDependensInjection.cs",
+              "RelativeToolTip": "Post.Application\\PostApplicationDependensInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:08:35.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240511133354_init2.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Migrations\\20240511133354_init2.cs",
+              "RelativeDocumentMoniker": "Post.Infrastructor\\Migrations\\20240511133354_init2.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Migrations\\20240511133354_init2.cs",
+              "RelativeToolTip": "Post.Infrastructor\\Migrations\\20240511133354_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:33:55.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Domain\\Entity\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Post.Domain\\Entity\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Domain\\Entity\\ResponseModel.cs",
+              "RelativeToolTip": "Post.Domain\\Entity\\ResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:32:44.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AbbDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Persistence\\AbbDbContext.cs",
+              "RelativeDocumentMoniker": "Post.Infrastructor\\Persistence\\AbbDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Persistence\\AbbDbContext.cs",
+              "RelativeToolTip": "Post.Infrastructor\\Persistence\\AbbDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:18:41.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240511131951_init.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Migrations\\20240511131951_init.cs",
+              "RelativeDocumentMoniker": "Post.Infrastructor\\Migrations\\20240511131951_init.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Migrations\\20240511131951_init.cs",
+              "RelativeToolTip": "Post.Infrastructor\\Migrations\\20240511131951_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:19:52.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\bin\Debug\net8.0\Post.Domain.deps.json
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\bin\Debug\net8.0\Post.Domain.dll
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\bin\Debug\net8.0\Post.Domain.pdb
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\Post.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\Post.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\Post.Domain.AssemblyInfo.cs
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\Post.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\Post.Domain.sourcelink.json
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\Post.Domain.dll
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\refint\Post.Domain.dll
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\Post.Domain.pdb
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Domain\obj\Debug\net8.0\ref\Post.Domain.dll

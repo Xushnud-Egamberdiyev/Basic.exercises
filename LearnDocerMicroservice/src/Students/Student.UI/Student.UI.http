@@ -1,6 +1,0 @@
-@Student.UI_HostAddress = http://localhost:5298
-
-GET {{Student.UI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

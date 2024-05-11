@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\bin\Debug\net8.0\Post.Application.deps.json
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\bin\Debug\net8.0\Post.Application.dll
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\bin\Debug\net8.0\Post.Application.pdb
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\bin\Debug\net8.0\Post.Domain.dll
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\bin\Debug\net8.0\Post.Domain.pdb
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.Application.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.Application.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.Application.AssemblyInfo.cs
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.Application.sourcelink.json
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.App.A977458D.Up2Date
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.Application.dll
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\refint\Post.Application.dll
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\Post.Application.pdb
+C:\Users\HP\Documents\basic.exercises\PostIdentity\Post.Application\obj\Debug\net8.0\ref\Post.Application.dll
