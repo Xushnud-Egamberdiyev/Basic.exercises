@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|c:\\users\\hp\\documents\\basic.exercises\\milliygramm\\milliygramm\\resources\\images\\opa.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|solutionrelative:milliygramm\\resources\\images\\opa.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|c:\\users\\hp\\documents\\basic.exercises\\milliygramm\\milliygramm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|solutionrelative:milliygramm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|c:\\users\\hp\\documents\\basic.exercises\\milliygramm\\milliygramm\\components\\privatechat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|solutionrelative:milliygramm\\components\\privatechat.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|c:\\users\\hp\\documents\\basic.exercises\\milliygramm\\milliygramm\\milliygramm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|solutionrelative:milliygramm\\milliygramm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|c:\\users\\hp\\documents\\basic.exercises\\milliygramm\\milliygramm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|solutionrelative:milliygramm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|c:\\users\\hp\\documents\\basic.exercises\\milliygramm\\milliygramm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70981C97-F9EA-4DAD-8577-EAB5299746B4}|MilliyGramm\\MilliyGramm.csproj|solutionrelative:milliygramm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "opa.jpg",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\Resources\\Images\\opa.jpg",
+              "RelativeDocumentMoniker": "MilliyGramm\\Resources\\Images\\opa.jpg",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\Resources\\Images\\opa.jpg",
+              "RelativeToolTip": "MilliyGramm\\Resources\\Images\\opa.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-01T08:59:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MilliyGramm\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\AssemblyInfo.cs",
+              "RelativeToolTip": "MilliyGramm\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:59:37.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrivateChat.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\Components\\PrivateChat.xaml",
+              "RelativeDocumentMoniker": "MilliyGramm\\Components\\PrivateChat.xaml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\Components\\PrivateChat.xaml",
+              "RelativeToolTip": "MilliyGramm\\Components\\PrivateChat.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T08:59:29.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MilliyGramm.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\MilliyGramm.csproj",
+              "RelativeDocumentMoniker": "MilliyGramm\\MilliyGramm.csproj",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\MilliyGramm.csproj",
+              "RelativeToolTip": "MilliyGramm\\MilliyGramm.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T08:59:29.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MilliyGramm\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\MainWindow.xaml",
+              "RelativeToolTip": "MilliyGramm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T08:59:29.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MilliyGramm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Basic.exercises\\MilliyGramm\\MilliyGramm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MilliyGramm\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:59:29.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
