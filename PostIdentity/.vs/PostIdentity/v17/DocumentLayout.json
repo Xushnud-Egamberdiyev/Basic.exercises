@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\PostIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\handler\\queryhandler\\getallpostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\handler\\queryhandler\\getallpostmodelcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|c:\\users\\hp\\documents\\basic.exercises\\postidentity\\post.application\\usecases\\query\\getallpostquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F3E76E6-0904-482E-BC4E-113F91C4D3F1}|Post.Application\\Post.Application.csproj|solutionrelative:post.application\\usecases\\query\\getallpostquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllPostModelCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\QueryHandler\\GetAllPostModelCommandHandler.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Handler\\QueryHandler\\GetAllPostModelCommandHandler.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Handler\\QueryHandler\\GetAllPostModelCommandHandler.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Handler\\QueryHandler\\GetAllPostModelCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:47:34.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllPostQuery.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Query\\GetAllPostQuery.cs",
+              "RelativeDocumentMoniker": "Post.Application\\UseCases\\Query\\GetAllPostQuery.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Basic.exercises\\PostIdentity\\Post.Application\\UseCases\\Query\\GetAllPostQuery.cs",
+              "RelativeToolTip": "Post.Application\\UseCases\\Query\\GetAllPostQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:47:23.761Z",
+              "EditorCaption": ""
             }
           ]
         }

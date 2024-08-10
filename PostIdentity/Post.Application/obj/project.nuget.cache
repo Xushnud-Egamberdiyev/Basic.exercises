@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VsaeaNKTgO6xqutSfdyhVUdGOdiqHEbSE8pGAp777KuKEHjF3m0pBpoTDwMFpbhkgmP5OCrVQ5urdMzCqsXk3g==",
+  "dgSpecHash": "Ik+gdpLdzdxUTUfhHAe+iQ1qrWszHZQDqHHpMoG/1gYZygCyhJoS6uaZFwVfCP98LnRb70X9ILU1cS0zPhE5/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Application\\Post.Application.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\PostIdentity\\Post.Application\\Post.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

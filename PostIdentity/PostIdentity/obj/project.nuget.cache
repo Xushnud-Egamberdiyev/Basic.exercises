@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qfn0wdsMzp+B+SoMlVD+BlP3+Ieymg/2+nQfpiMoNnTBEDoNECHuo0Oo4NVih9yUkFci4B9nvbbwqOipwNaBiQ==",
+  "dgSpecHash": "Y4aK0JfTFe+lFkWEg04MnM8M/rVAgxFjBNtBQ3oDILKkPEoRW573rQQU1SRKN79E/z9CInwrfP1D79MnRI5IVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\PostIdentity\\PostIdentity.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\PostIdentity\\PostIdentity\\PostIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",

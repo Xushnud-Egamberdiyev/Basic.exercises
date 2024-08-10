@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8yWhhgjMxXgvr5TIFeZlUns5zG4C6VZAaLpJONrAoyutKXfQR6dGFdMFkcsFiOWwh+xOyOVcSrCcNx0HxxHOw==",
+  "dgSpecHash": "50a4103VmujaMHUnWP/n5wh8QVt7crjqCTjHO3XH9Zi3w/yJ9Hq2T2pahRjeSZKlOzXVNMV2cDirjkcAGVIpuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\basic.exercises\\PostIdentity\\Post.Infrastructor\\Post.Infrastructor.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\PostIdentity\\Post.Infrastructor\\Post.Infrastructor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
