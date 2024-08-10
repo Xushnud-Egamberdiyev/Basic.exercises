@@ -1,41 +1,41 @@
-﻿using TheEasy.Api.Models;
+﻿using TheEasy.api.Model;
 using TheEasy.Services.Exceptions;
 
-namespace TheEasy.Api.Middlewares;
-
-public class ExceptionHandlerMiddleware
+namespace TheEasy.api.Middlewares
 {
-    private readonly RequestDelegate next;
-
-    public ExceptionHandlerMiddleware(RequestDelegate next)
+    public class ExceptionHandlerMiddleware
     {
-        this.next = next;
-    }
+        private readonly RequestDelegate next;
 
-    public async Task Invoke(HttpContext context)
-    {
-        try
+        public ExceptionHandlerMiddleware(RequestDelegate next)
         {
-            await next(context);
+            this.next = next;
         }
-        catch (CustomException ex)
-        {
-            context.Response.StatusCode = ex.stutusCode;
-            await context.Response.WriteAsJsonAsync(new Response
-            {
-                StutusCode = ex.stutusCode,
-                Message = ex.Message
-            });
-        }
-        catch (Exception ex)
-        {
-            context.Response.StatusCode = 500;
-            await context.Response.WriteAsJsonAsync(new Response
-            {
-                StutusCode = 500,
-                Message = ex.Message
-            });
 
+        public async Task Invoke(HttpContext context)
+        {
+            try
+            {
+                await next(context);
+            }
+            catch (CustomException ex)
+            {
+                context.Response.StatusCode = ex.StutusCode;
+                await context.Response.WriteAsJsonAsync(new Response
+                {
+                    StutusCode = ex.StutusCode,
+                    Message = ex.Message
+                });
+            }
+            catch (Exception ex)
+            {
+                context.Response.StatusCode = 500;
+                await context.Response.WriteAsJsonAsync(new Response
+                {
+                    StutusCode = 500,
+                    Message = ex.Message
+                });
+            }
         }
     }
 }

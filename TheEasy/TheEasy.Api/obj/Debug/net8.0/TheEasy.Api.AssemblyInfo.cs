@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheEasy.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+859d9b83880dc58621ba7cd56d34eec3032f6040")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b5d81406f43275d8ef60afc3d23c9bc481fa100")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheEasy.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheEasy.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

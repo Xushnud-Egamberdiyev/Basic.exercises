@@ -971,6 +971,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.7",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "8.0.4",
           "TheEasy.Domain": "1.0.0"
         },
@@ -2771,11 +2772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\Basic.exercises\\TheEasy\\TheEasy.Api\\TheEasy.Api.csproj",
-      "projectName": "TheEasy.Api",
-      "projectPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\TheEasy\\TheEasy.Api\\TheEasy.Api.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\Basic.exercises\\TheEasy\\TheEasy.api\\TheEasy.api.csproj",
+      "projectName": "TheEasy.api",
+      "projectPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\TheEasy\\TheEasy.api\\TheEasy.api.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\TheEasy\\TheEasy.Api\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\TheEasy\\TheEasy.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

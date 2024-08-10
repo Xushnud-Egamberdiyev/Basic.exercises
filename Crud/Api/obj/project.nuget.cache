@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZfTtAKks858Snkze+JaXdsWi1qE0Ys4oZ0G5uUbBRVCWr/f4cDXHIIf8CiMsJW7iWC4PR2CB/a1m+NwWU2LH1A==",
+  "dgSpecHash": "+3/TIaz1LC7Ng3hVJFtnrAtX/frqvK9RFU4CFDF1Rl8FfWByO1R/MMBhhAsSPYt5NqH5Ywh6UCKQb5Tkedw83w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\CRUD\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\Crud\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

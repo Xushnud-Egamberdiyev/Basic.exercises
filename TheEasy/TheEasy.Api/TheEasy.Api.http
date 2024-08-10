@@ -1,6 +1,6 @@
-@TheEasy.Api_HostAddress = http://localhost:5043
+@TheEasy.api_HostAddress = http://localhost:5250
 
-GET {{TheEasy.Api_HostAddress}}/weatherforecast/
+GET {{TheEasy.api_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

@@ -1,14 +1,12 @@
 
-using Microsoft.EntityFrameworkCore;
-using TheEasy.Api.Middlewares;
-using TheEasy.Data.DbContexs;
+using TheEasy.Data;
 using TheEasy.Data.IRepositories;
 using TheEasy.Data.Repositories;
 using TheEasy.Services.Interfaces;
 using TheEasy.Services.Mappers;
 using TheEasy.Services.Services;
 
-namespace TheEasy.Api
+namespace TheEasy.api
 {
     public class Program
     {
@@ -24,10 +22,9 @@ namespace TheEasy.Api
 
             builder.Services.AddInfrastructure(builder.Configuration);
             builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-            builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddAutoMapper(typeof(MappingProfile));
+            builder.Services.AddScoped<IUserService, UserService>();
 
-            //Middleware
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())
@@ -36,9 +33,8 @@ namespace TheEasy.Api
                 app.UseSwaggerUI();
             }
 
-            app.UseMiddleware<ExceptionHandlerMiddleware>();
             app.UseHttpsRedirection();
-                
+
             app.UseAuthorization();
 
 

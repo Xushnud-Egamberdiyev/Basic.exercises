@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheEasy.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78d799f13f693635f54a1010ffe23f1ad2aab65f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b5d81406f43275d8ef60afc3d23c9bc481fa100")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheEasy.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheEasy.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

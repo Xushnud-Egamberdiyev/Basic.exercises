@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJUPvWsFdG58g4h6Z3zqaaIF2f4dH3b8X3ZoaI/67IQFNB+EIL0nq+JHNwkfr7pEJMJvOBAH62m+MvNA010qRQ==",
+  "dgSpecHash": "Pz5SHItxyFM9B6lDtW8YzedLqNO3rLzRzG7gjsbKwNGHXyhct9/2dQXz7ndyM/jXjlAlpTMQhs2yiNdt6IW96g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\TheEasy\\TheEasy.Api\\TheEasy.Api.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\TheEasy\\TheEasy.api\\TheEasy.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

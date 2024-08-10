@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\Basic.exercises\\CRUD\\Infructructor\\Infructructor.csproj": {}
+    "C:\\Users\\HP\\Documents\\Basic.exercises\\Crud\\Infructructor\\Infructructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\Basic.exercises\\CRUD\\Infructructor\\Infructructor.csproj": {
+    "C:\\Users\\HP\\Documents\\Basic.exercises\\Crud\\Infructructor\\Infructructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Basic.exercises\\CRUD\\Infructructor\\Infructructor.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\Basic.exercises\\Crud\\Infructructor\\Infructructor.csproj",
         "projectName": "Infructructor",
-        "projectPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\CRUD\\Infructructor\\Infructructor.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\Crud\\Infructructor\\Infructructor.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Documents\\Basic.exercises\\Crud\\Infructructor\\obj\\",
         "projectStyle": "PackageReference",

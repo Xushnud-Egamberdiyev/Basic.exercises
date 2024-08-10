@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace TheEasy.Data.IRepositories;
 
-public interface IRepository<TEntity>
+public interface IRepository<Entitiy>
 {
-    public Task<TEntity> InsertAsync(TEntity entity);
-    public Task<TEntity> UpdateAsync(TEntity entity);
+    public Task<Entitiy> SelectByIdAsync(long id);
+    public IQueryable<Entitiy> SelectAll();
+    public Task<Entitiy> InsertAsync(Entitiy entitiy);
+    public Task<Entitiy> UpdateAsync(Entitiy entitiy);
     public Task<bool> DeleteAsync(long id);
-    public Task<TEntity> SelectByIdAsync(long id);
-    public IQueryable<TEntity> SelectAll();
-
-
 }

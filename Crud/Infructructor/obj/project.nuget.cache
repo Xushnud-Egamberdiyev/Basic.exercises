@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "74TS/dviEnW1MZGm/lsOYNmW747ONf4o0kk8tWNclWtp7QKNli/SLqIAPfoYHCQWSJlpKMmQGjAYFqvOA0vxUA==",
+  "dgSpecHash": "OWK+IxE2jZhKKR0uM2BUAVzTTlNOrSBT+MS70gLf4ggqI7zxws8IPnT87MfD2B5/75bcjBPm0Vh1m7bsw/rZXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\CRUD\\Infructructor\\Infructructor.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Basic.exercises\\Crud\\Infructructor\\Infructructor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
